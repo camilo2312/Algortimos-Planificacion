@@ -1,0 +1,11 @@
+Priority - https://www.geeksforgeeks.org/program-for-priority-cpu-scheduling-set-1/
+
+SRTF - https://www.geeksforgeeks.org/shortest-remaining-time-first-preemptive-sjf-scheduling-algorithm/
+
+FCFS - https://www.geeksforgeeks.org/program-for-fcfs-cpu-scheduling-set-1/
+
+SJF - https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/
+
+HR - https://www.geeksforgeeks.org/highest-response-ratio-next-hrrn-cpu-scheduling/
+
+RR - https://www.geeksforgeeks.org/program-round-robin-scheduling-set-1/
